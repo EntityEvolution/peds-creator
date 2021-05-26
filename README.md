@@ -1,2 +1,8 @@
 # pe-peds
-A script to spawn peds with a message
+### A simple resource that allows you to spawn peds at certain locations.
+
+## Instalation
+1) Add it to your [resources] folder.
+2) Add `ensure not-pe-peds` to your [server.cfg] file.
+3) Add your peds you want on the [config.lua] file.
+4) Start the server or ensure the script.
