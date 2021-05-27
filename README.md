@@ -1,4 +1,4 @@
-# pe-peds
+# peds-creator
 ### A simple resource that allows you to spawn peds at certain locations.
 
 ## Instalation
